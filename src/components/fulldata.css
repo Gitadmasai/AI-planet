@@ -1,0 +1,112 @@
+.img-div img{
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    margin-top: 100px;
+    margin-left: 160px;
+}
+
+
+.but .but1{
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+    width: 120px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color:rgb(6,59,83) ;
+    border: 2px solid white;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+.but .but2{
+    margin-left: 150px;
+    margin-bottom: 400px;
+    width: 120px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color:rgb(6,59,83) ;
+    border: 2px solid white;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+
+.down-head{
+    display: flex;
+}
+
+.desc-box{
+    border: 1px solid black;
+    width: 70%;
+   padding: 40px;
+}
+
+.desc-box label{
+    
+   margin: 40px 0 0 100px;
+}
+
+.desc-box p{
+    color: gray;
+    font-size: 20px;
+    margin: 20px 0 0 100px;
+    font-family: sans-serif;
+ }
+
+
+.url-box{
+    width: 30%;
+    padding: 40px;
+    
+}
+
+.url-box h2{
+    color: gray;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 40px 0 0 20px;
+
+}
+
+
+.url-box p{
+    
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 20px 0 0 20px;
+    font-size: 25px;
+
+
+}
+
+.url-box h3{
+    color: gray;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 0 0 0 20px;
+    font-size: 15px;
+
+
+}
+
+
+
+.fav-but{
+    width: 150px;
+    height: 50px;
+    margin: 20px 0 0 160px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color:rgb(6,59,83) ;
+    border: 2px solid white;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+
+}
